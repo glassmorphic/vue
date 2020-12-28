@@ -1,0 +1,24 @@
+{
+  "name": "glassmorphic-vue",
+  "version": "0.0.1",
+  "description": "A collection of Vue.js components, utilising the glassmorphic CSS library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glassmorphic/vue.git"
+  },
+  "keywords": [
+    "Glassmorphic-vue",
+    "Glassmorphic",
+    "Glassmorphism"
+  ],
+  "author": "James Wylie <hello@glassmorphic.io> (https://glassmorphic.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glassmorphic/vue/issues"
+  },
+  "homepage": "https://github.com/glassmorphic/vue#readme"
+}
